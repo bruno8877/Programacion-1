@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1567170309 source:c:\users\alumno\desktop\clase-4\main.c
+	<stdlib.h>
+	"Aritmeticas.h"
+
+1567170313 c:\users\alumno\desktop\clase-4\aritmeticas.h
+	<stdio.h>
+
