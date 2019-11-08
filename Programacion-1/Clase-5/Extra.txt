@@ -1,0 +1,17 @@
+/*int incrementar(int*);
+int main()
+{
+    int numero = 0;
+    incrementar(&numero);
+    incrementar(&numero);
+    incrementar(&numero);
+
+    print("%d", numero);
+    return 0;
+}
+int incrementar(int* n)
+{
+	*n = *n+1
+	return 1;
+}
+ */
