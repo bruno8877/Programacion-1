@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1570671106 source:c:\users\bruno\onedrive\escritorio\tp.2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"validation.h"
+
+1570671106 c:\users\bruno\onedrive\escritorio\tp.2\arrayemployees.h
+	<stdio.h>
+
+1570649190 c:\users\bruno\onedrive\escritorio\tp.2\validation.h
+	<stdio.h>
+
+1570671106 source:c:\users\bruno\onedrive\escritorio\tp.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1570649190 source:c:\users\bruno\onedrive\escritorio\tp.2\validation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validation.h"
+
